@@ -9,8 +9,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-08'
 modified: '2025-02-08'
 url: >-
@@ -25,8 +24,7 @@ apis:
       access to your data in a way that works best for you, whether its through integration,
       automation, or full customization.
     humanURL: ' https://parklio.com/en/parking-software/parklio-api'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://parklio.com/en/parking-software/parklio-api'
