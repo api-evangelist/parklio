@@ -40,6 +40,8 @@ apis:
       - type: Request Access
         url: https://parklio.com/en/parking-software/parklio-api
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/parklio
   - type: Website
     url: https://parklio.com/
   - type: Contact
