@@ -40,6 +40,10 @@ apis:
       - type: Request Access
         url: https://parklio.com/en/parking-software/parklio-api
 common:
+  - type: DomainSecurity
+    url: security/parklio-domain-security.yml
+  - url: https://parklio.com/en/blog/
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/parklio
   - type: Website
