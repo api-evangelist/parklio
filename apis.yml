@@ -63,6 +63,12 @@ apis:
       - type: Request Access
         url: https://parklio.com/en/parking-software/parklio-api
 common:
+  - type: Plans
+    url: plans/parklio-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/parklio-rate-limits.yml
+  - type: FinOps
+    url: finops/parklio-finops.yml
   - type: DomainSecurity
     url: security/parklio-domain-security.yml
   - url: https://parklio.com/en/blog/
